@@ -517,3 +517,4 @@ def draw_track():
 if __name__ == '__main__':
     print("csw")
     draw_mean_20_test()
+    print("wdsadsdas")
